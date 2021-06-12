@@ -1,3 +1,3 @@
 # google-homepage
 
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css
+[Live Page](https://bchiud.github.io/google-homepage/) :point_left:
